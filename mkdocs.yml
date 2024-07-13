@@ -27,7 +27,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - content.tooltips
-    - content.copy
+    - content.code.copy
     
 
 extra_css:
